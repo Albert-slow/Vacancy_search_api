@@ -1,0 +1,9 @@
+fastapi
+sqlalchemy
+uvicorn
+python-multipart
+regex
+psycopg2
+aiohttp
+bs4
+requests
